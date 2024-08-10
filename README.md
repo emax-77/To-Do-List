@@ -1,1 +1,1 @@
-a simple To-Do list with Django and without Java Script :)
+simple to-do list with Django and without JavaScript :)
